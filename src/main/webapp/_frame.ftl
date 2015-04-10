@@ -11,11 +11,13 @@
 
 	<link rel="stylesheet" href="/bootstrap/css/bootstrap.min.css" type="text/css" />
 
+	[@webBundle path="/css/" type="css" /]
+
 	[@webBundle path="/common/js/" type="js" /]
 
 	[@webBundle path="/js/" type="js" /]
 
-	[@webBundle path="/css/" type="css" /]
+
 
 </head>
 
